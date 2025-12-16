@@ -1,19 +1,25 @@
-<h1><b>P🐱 Cat and dog classification algorithm 🐶</b></h1>
+<h1><b>🐱 Cat and dog classification algorithm 🐶</b></h1>
 <a href="https://www.python.org" target="_blank">
   <img src="https://img.shields.io/badge/Python-52BE80">
 </a>
 <a href="https://pypi.org/project/tensorflow/" target="_blank">
   <img src="https://img.shields.io/badge/Tensorflow-D4E6F1">
 </a>
+<a href="https://pypi.org/project/numpy/" target="_blank">
+  <img src="https://img.shields.io/badge/Numpy-51A2FF">
+</a>
+<a href="https://pypi.org/project/kagglehub/" target="_blank">
+  <img src="https://img.shields.io/badge/kagglehub-51A2FF">
+</a>
+<a href="https://pypi.org/project/matplotlib/" target="_blank">
+  <img src="https://img.shields.io/badge/Matplotlib-FB2C36">
+</a>
 <br><br>
 
-<img src="https://i.pinimg.com/236x/cc/aa/c9/ccaac9b2ce19a131fa386c3b7cc0c923.jpg">
+<img width="300" src="https://i.pinimg.com/1200x/b8/f7/42/b8f7423555a26da457c65b43ac48bb19.jpg">
 
 <p>
-  📈 Seaborn es una biblioteca de visualización de datos en Python construida sobre Matplotlib. 
-  🎨 Ofrece una interfaz de alto nivel para crear gráficos estadísticos atractivos y fáciles de 
-  interpretar. Seaborn facilita la exploración y comprensión de datos, proporcionando herramientas 
-  para la visualización de distribuciones, relaciones y comparaciones en conjuntos de datos complejos.
+  Un clasificador de perros y gatos en Python usa TensorFlow/Keras para crear una red neuronal convolucional que aprende a diferenciar imágenes del dataset de Kaggle. Con Matplotlib se visualizan ejemplos. Aunque, este modelo no predice tan bien, solo es uno de mis inicios en la IA.
 </p>
 
 ## Índice de Contenidos 🧾
@@ -28,22 +34,12 @@
 1. Clona el repositorio:
 
     ```
-    git clone https://github.com/Bredalis/Seaborn.git
+    git clone https://github.com/Bredalis/Cats-And-Dogs-Classification.git
     ```
 ## Uso ⚙️
 
-Para ejecutar un programa, simplemente navega al directorio del programa y ejecuta el archivo Python correspondiente. Por ejemplo:
-
-1. Ubicate en la ruta del programa:
-
-     ```
-    cd ruta-del-programa
-    ```
-2. Ejecuta el programa:
-
-    ```
-    python nombre-del-programa.py
-    ```
+Para ejecutar el programa, simplemente navega a Google Colab en la Web y das a la opción subir, 
+buscas el archivo Cats_And_Dogs_Classification.ipynb y ya está listo para usarse.
 
 ## Licencia 📜
 
